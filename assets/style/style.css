@@ -1,0 +1,76 @@
+.encabezado {
+    background-image: url("../img/zombies.jpg");
+    background-size: cover;
+    height: 150px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+  }
+
+  body {
+    background-color: #968e8e; 
+    margin: 0;
+}
+
+  
+  h1 {
+    font-size: 60px;
+    padding: 5px;
+    width: 50%;
+    margin: 0;
+    color: #ff0000;
+  }
+  
+  div {
+    margin: 0;
+  }
+  
+  p {
+    font-size: 20px;
+  }
+  
+  .precio {
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 30px; 
+}
+
+  .juego {
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 40px; 
+}
+
+  .producto {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .prod_img {
+    width: 40%;
+    text-align: right;
+    padding: 0;
+    margin: 5px;
+  }
+  
+  .prod_txt {
+    width: 40%;
+    padding: 5px;
+    text-align: justify;
+  }
+  
+  .prod_desc {
+    font-size: 15px;
+  }
+  
+  .pie {
+    background-color: brown;
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    color: white;
+  }
+  
